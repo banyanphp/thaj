@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>You've been forbidden access!</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.style2 {color: #CCCCCC}
+.style3 {font-size: 36px; font-weight: bold; font-style: italic; font-family: Arial, Helvetica, sans-serif;}
+.style10 {color: #FF0033}
+.style6 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+.style7 {	color: #333333;
+	font-size: 36px;
+}
+.style8 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style9 {font-size: 24px; color: #999999; font-family: Georgia;}
+.style11 {font-size: 14px; color: #FF6600; font-family: "Courier New", Courier, monospace;}
+-->
+</style>
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" scroll="auto">
+<table width="101%" height="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+  <tr>
+    <td height="50" colspan="2" bgcolor="#5B7582">&nbsp; <span class="style2">&nbsp;&nbsp; <span class="style3"><script>
+   var myDomain = document.domain;
+   document.write(myDomain);
+</script> </span></span></td>
+  </tr>
+  <tr>
+    <td height="29" colspan="2" bgcolor="#D2DBDF"> &nbsp;&nbsp;<span class="style11"> 
+    You've been forbidden access!</span></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+    <table width="90%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="57%" align="center" valign="middle"><span class="style6"><font face="Trebuchet MS" size="2"> Hi! You've been denied access to my website by virtue of, well, something in the request that leads me to believe that you are a <strong>spammer, a charlatan, or a dimwit</strong>. Possibly a combination of all three! Just so we're clear, here's the information that I have about your request. 
+        <h3>You purport to have come from <!--#echo var="HTTP_REFERER" --> via an IP address of <!--#echo var="REMOTE_ADDR" -->. The URL you were requesting was <!--#echo var="REQUEST_URI" -->. Your agent string is <!--#echo var="HTTP_USER_AGENT" -->.</h3>
+<p>Obviously if any of this means nothing to you and you're exceedingly confused about why you're being denied access to my glorious content, none of this will make much sense to you. If it's happened by accident I'll do everything necessary to correct the problem. All you need to do is send me some email at . If you're blocked for the wrong reason, I'll correct it. If, as I strongly suspect, you've been denied for valid reasons, I'll probably forward your email to the abuse section of your ISP. </p>
+<p>However, as we both know, you are most likely using a spoofed referrer trying to spam my referral logs. (And, you are likely a bot who could care less what kind of response you get, but that's life.) Does this ever actually work for you as a business case? As such, I don't care to hear about your product. Honestly, I don't! So, just go away.</p>
+
+<p>Thanks for coming by!</p></span></td>
+        <td width="43%" align="center">
+        <img border="0" src="/images/stop_face.jpg" width="200" height="309" ></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="50%" height="50" align="right" valign="middle">
+    <font size="7" face="Wingdings">]</font></td>
+    <td width="50%" align="left" valign="middle"><FONT 
+            face="Arial Narrow" color=#808080>web hosting by</FONT><FONT 
+            face=Arial><BR>
+        <FONT color=#6699ff>&nbsp;</FONT></FONT><FONT 
+            face=Arial color=#6699ff><B><I>&nbsp; <A 
+            href="http://www.crb.co.in"><FONT color=#6699ff>CRB 
+    solutions</FONT></A></I></B></FONT></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,1 @@
+<?phpsession_start();$_SESSION['user'];if($_SESSION['user']==""){	session_unset($permission);	session_destroy();	echo'<script>window.location="index.php";</script>';}?>

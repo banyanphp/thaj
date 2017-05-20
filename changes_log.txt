@@ -1,0 +1,12 @@
+$root_url  	 = 'http://localhost/2016/drthajsk/login/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/'
+$root_url  	 = 'http://localhost/2016/drthajsk/login/';
+$root_url  	 = 'http://localhost/2016/drthajsk/login/';
+$root_url  	 = 'http://localhost/2016/drthajsk/login/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/';
+$root_url  	 = 'http://localhost/2016/drthajsk/admin/';
+$root_url  	 = 'http://localhost/2016/drthajsk/login/'

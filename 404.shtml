@@ -1,0 +1,99 @@
+<html>
+<head>
+
+<title>Page not found</title>
+<style type="text/css">
+<!--
+html, body {
+	background-repeat: no-repeat;
+	background-color:#FFFFFF;
+	font-family:Arial;
+	font-size:12px;
+	color:#333333;
+	margin: 0px;
+	background-position:center top;
+	height: 100%;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style2 {
+font-family:Arial, Helvetica, sans-serif;
+color:#999999;
+text-decoration:none;}
+.style3 {
+	font-size: 36px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+h5
+{display:none;}
+.style6 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-align:left;
+	font-size:12px;
+}
+.style11 {font-size: 14px; color: #FF6600; font-family: "Courier New", Courier, monospace;}
+-->
+</style>
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" scroll="auto">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+  <tr>
+    <td height="50" colspan="2" bgcolor="#346472">&nbsp; <span class="style2">&nbsp;&nbsp;<span class="style3"><script>
+   var myDomain = document.domain;
+   document.write(myDomain);
+</script> </span></span></td>
+  </tr>
+  <tr>
+    <td height="29" colspan="2" bgcolor="#f0f0f0"> &nbsp;&nbsp;<span class="style11">404 
+    ERROR - File not found</span></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+    <table width="90%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111">
+      <tr>
+        <td width="57%" align="center" valign="middle"><p>
+        <font face="Webdings" style="font-size: 80pt" color="#FF0033">L</font><font face="Wingdings 2" size="7"><br>
+        </font><font face="Trebuchet MS" size="7" color="#CCCCCC">Page
+        </font><font face="Trebuchet MS" size="7" color="#FF9900">Not</font><font face="Trebuchet MS" size="7" color="#CCCCCC"> 
+        Found</font><br>
+                <font size="3"><br></font>
+            <span class="style6">This means that the page you requested was not found on 
+        this server. This could be for a variety of reasons, including:
+            </span>
+            <ul style="padding-left:200px;">
+              <li class="style6" style="text-align: left">You followed a broken or out-of-date link. </span></li>
+              <li class="style6" style="text-align: left">You typed the URL incorrectly. </span></li>
+              <li class="style6" style="text-align: left">The file has been removed. </span></li>
+      </ul>        <P>&nbsp;</p></td>
+        <td width="43%" align="right">
+</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="50" colspan="2" align="center" valign="bottom" bgcolor="#FCFCFC" style="border-top:dashed 1px #F0F0F0;"><table width="96%" border="0" cellspacing="4" cellpadding="4">
+      <tr>
+        <td width="50%" align="left" valign="bottom"></td>
+        <td width="50%" align="right" valign="bottom">Hosted by <font size="5" face="Wingdings">]</font><a href="http://www.crb.co.in" target="_blank" style="color:#444444" ><strong>CRB Server</strong></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

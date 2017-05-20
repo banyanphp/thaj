@@ -1,0 +1,15 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks -MultiViews
+#Options +SymLinksIfOwnerMatch -MultiViews
+#Options +SymLinksIfOwnerMatch -MultiViews
+#Options +SymLinksIfOwnerMatch
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^build99.com [NC]
+RewriteRule ^(.*)$ http://www.build99.com/$1 [L,R=301,NC]
+RewriteBase /buildnin/
+DirectoryIndex index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{REQUEST_FILENAME} !\.(pdf|js|ico|gif|jpg|jpeg|png|css|rar|zip|tar\.gz)$
